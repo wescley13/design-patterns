@@ -1,4 +1,4 @@
-package solid.srp;
+package srp;
 
 import java.io.File;
 import java.io.FileNotFoundException;
