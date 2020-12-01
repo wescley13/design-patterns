@@ -1,4 +1,4 @@
-# Design-patterns
+# Design Patterns
 
 Some implementation of Design Patterns
 

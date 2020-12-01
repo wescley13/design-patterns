@@ -1,4 +1,4 @@
-# Java Design-patterns
+# Java Design Patterns
 
 ##### Solid:
 - Single Resposability(SRP)
