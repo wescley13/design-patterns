@@ -17,16 +17,16 @@ Responsability:
 ### Open Closed Principle(OCP)
 ```
 Scenario:
-Manage products with different colors and sizes. 
+Manage products with different colors and sizes. Filter product by color and size.
 
 Open:
 - Create new specs for filters(ColorSpecification, SizeSpecification)
 
 Closed:
-- Modify a single class for filter. Example: ProductFilter
+- Modify a single class for filtering products. Example: ProductFilter
 
 - Open for extension
-- Close for modification
+- Closed for modification
 ```  
 
 
