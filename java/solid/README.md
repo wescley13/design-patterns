@@ -12,6 +12,8 @@ Responsability:
 - Create a single responsability to a single class
 - Easy to refeactor
 - Easy to understand
+
+Implementation: https://github.com/wescleycaldeira/design-patterns/tree/main/java/solid/src/srp
 ```
 
 ### Open Closed Principle(OCP)
@@ -27,6 +29,18 @@ Closed:
 
 - Open for extension
 - Closed for modification
+
+Implementation: https://github.com/wescleycaldeira/design-patterns/tree/main/java/solid/src/ocp
+```  
+
+### Liskov Substitution Principle(LSP)
+```
+Scenario:
+Calculate area of a rectangle with a variation of a square
+
+- Substitute a sub class to a base class
+
+Implementation: https://github.com/wescleycaldeira/design-patterns/tree/main/java/solid/src/lsp
 ```  
 
 
